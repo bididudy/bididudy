@@ -1,7 +1,7 @@
 ![MasterHead](https://datahexa.com/wp-content/uploads/2018/03/data-science-b.jpg)
 <h1 align="center">Hi 👋, I'm Balaji Haridas Nalawade</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="centre" alt="Coding" width="600" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<img align="centre" alt="Coding" width="600" src = "https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bididudy&label=Profile%20views&color=0e75b6&style=flat" alt="bididudy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bididudy" alt="bididudy" /></a> </p>
