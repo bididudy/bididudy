@@ -1,7 +1,7 @@
 [![MasterHead](https://www.linkedin.com/in/balaji-nalawade-242374a2/overlay/background-image/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Balaji Haridas Nalawade</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/xSSeeT77T1YX1g4Q8”>
+<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/xSSeeT77T1YX1g4Q8](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloudyml.com%2Fblog%2Fdata-science-is-a-better-career-option%2F&psig=AOvVaw3mwkHH0bh6Dig0hYFz74Vr&ust=1686045340462000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCND2wL7uq_8CFQAAAAAdAAAAABAQ)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bididudy&label=Profile%20views&color=0e75b6&style=flat" alt="bididudy" /> </p>
 
