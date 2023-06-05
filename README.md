@@ -1,4 +1,4 @@
-![MasterHead](https://www.linkedin.com/in/balaji-nalawade-242374a2/overlay/background-image/)
+![MasterHead](https://datahexa.com/wp-content/uploads/2018/03/data-science-b.jpg)
 <h1 align="center">Hi 👋, I'm Balaji Haridas Nalawade</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif”>
