@@ -1,7 +1,7 @@
 ![MasterHead](https://datahexa.com/wp-content/uploads/2018/03/data-science-b.jpg)
 <h1 align="center">Hi 👋, I'm Balaji Haridas Nalawade</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif”>
+<img align="right" alt="Coding" width="300" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bididudy&label=Profile%20views&color=0e75b6&style=flat" alt="bididudy" /> </p>
 
