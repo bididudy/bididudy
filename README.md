@@ -1,18 +1,18 @@
 ![MasterHead](https://datahexa.com/wp-content/uploads/2018/03/data-science-b.jpg)
 <h1 align="center">Hi 👋, I'm Balaji Haridas Nalawade</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bididudy&label=Profile%20views&color=0e75b6&style=flat" alt="bididudy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bididudy" alt="bididudy" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis, Machine Learning projects**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **Data Science from OdinSchool**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Data analysis projects**
 
-- 💬 Ask me about **Python, SQL, Statistics, ML Algorithms, EDA**
+- 💬 Ask me about **Python, SQL, Tableau, R, EDA**
 
 - 📫 How to reach me **balaji.nalawade@outlook.com**
 
