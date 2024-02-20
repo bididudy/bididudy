@@ -2,15 +2,23 @@
 <h1 align="center">Hi 👋, I'm Balaji Nalawade</h1>
 <h3 align="center">A passionate Data Scientist from India living in Italy</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bididudy&label=Profile%20views&color=0e75b6&style=flat" alt="bididudy" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bididudy" alt="bididudy" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/bididudy" target="blank"><img src="https://img.shields.io/twitter/follow/bididudy?logo=twitter&style=for-the-badge" alt="bididudy" /></a> </p>
 
 - 🔭 I’m currently working on **Movie GPT**
 
 - 🌱 I’m currently learning **Data Science & AI**
 
+- 👨‍💻 All of my projects are available at [https://github.com/bididudy?tab=repositories](https://github.com/bididudy?tab=repositories)
+
 - 💬 Ask me about **API, Web Scraping, ML, DL, MLops**
 
 - 📫 How to reach me **balaji.nalawade@outlook.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bididudy&show_icons=true&locale=en" alt="bididudy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bididudy&" alt="bididudy" /></p>
+
