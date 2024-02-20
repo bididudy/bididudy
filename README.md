@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bididudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bididudy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/balaji nalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji nalawade" height="30" width="40" /></a>
-<a href="https://kaggle.com/balajinalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balajinalawade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/balaji-nalawade-242374a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/balaji-nalawade-242374a2/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/balajinalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/balajinalawade" height="30" width="40" /></a>
 <a href="https://instagram.com/_bididudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bididudy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bididudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bididudy" height="30" width="40" /></a>
 </p>
