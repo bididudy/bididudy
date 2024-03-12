@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/bididudy" target="blank"><img src="https://img.shields.io/twitter/follow/bididudy?logo=twitter&style=for-the-badge" alt="bididudy" /></a> </p>
 
-- 🔭 I’m currently working on **Movie GPT**
+- 🔭 I’m currently working on **Car Recommendation Engine** [car recommendation engine](https://car-recommendation-engine-v2.streamlit.app/)
 
 - 🌱 I’m currently learning **Data Science & AI**
 
